@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "primer-practica"
+  "defaultProject": "primer-practica",
+  "cli": {
+    "analytics": "d2e45f78-6e21-4b7a-beef-b09b149a5b37"
+  }
 }
